@@ -1,0 +1,11 @@
+beautifulsoup4
+fastapi
+motor
+pydantic
+pymongo
+requests
+SQLAlchemy
+starlette
+urllib3
+uvicorn
+supervisor
